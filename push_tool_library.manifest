@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"cf7828b1-e366-429a-aa6f-0ca3efcdbbe6",
+	"author":	"Carl Bass",
+	"description":	{
+		"":	"Push fusion tool library from local to github"
+	},
+	"version":	"0.7",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
